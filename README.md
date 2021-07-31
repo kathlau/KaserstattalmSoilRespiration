@@ -8,7 +8,7 @@ ADDITIONAL BACKGROUND INFORMATION:
 
 FURTHER RESULTS OBTAINED FROM MANUAL MEASUREMENTS (EGM):
 
-01_EGM_DistributionFlux_PerMeasurement.png:
+01_EGM_DistributionFlux_PerMeasurement.png
 
 01_EGM_RelationSoilWaterContent+Flux.png : 
   No correlation between soil water content and CO2-efflux.
